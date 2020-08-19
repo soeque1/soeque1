@@ -7,6 +7,7 @@
 * 2019.02 : (opensource) [LipNet](https://github.com/apache/incubator-mxnet/blob/master/example/gluon/lipnet/README.md), Apache MXNet
 
 ![soeque1's github stats](https://github-readme-stats.vercel.app/api?username=soeque1&show_icons=true&theme=vue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soeque1&layout=compact)](https://github.com/soeque1/github-readme-stats)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyungjun-kim-77775297/)](https://www.linkedin.com/in/hyungjun-kim-77775297/) 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/watch?v=W1IManfevqE)](https://www.youtube.com/watch?v=W1IManfevqE) 
