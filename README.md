@@ -1,6 +1,6 @@
 ### 김형준
 
-#### Research Engineer @SK Telecom
+#### Research Engineer @Naver
 
 * 2019.10 : (competition) [2nd Prize](https://docs.google.com/spreadsheets/d/1GpJikalmFSb2EUVPdlM8g61pco8iqFgESFxlgMuMbGA/edit#gid=0) - Sentence Selection track Ubuntu, DSTC8-TrackII
 * 2019.04 : (presentation) [Apache MXNet/Gluon을 이용한 Lip Reading 모델 만들기](https://www.youtube.com/watch?v=W1IManfevqE), AWS Summit Seoul
